@@ -2,12 +2,10 @@
 <head>
 <title>Hello World!</title>
 	<br>
-	<h1>MOHAN very good boy<h1>
+	<h1>shekar very good boy<h1>
 		<br>
 		<h1>mohan creat thist</h1>
-		<br>
-		<h1>Mounika deyyam</h1>
-		<br>
+		
 		<h1>padhu is gud girllll</h1>
 </head>
 <body>
