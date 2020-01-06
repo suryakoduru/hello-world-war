@@ -4,9 +4,9 @@
 	<br>
 	<h1>shekar very good boy<h1>
 		<br>
-		<h1>mohan creat thist</h1>
+		<h1> Bhanu creat thist</h1>
 		
-		<h1>padhu is gud girllll</h1>
+		
 </head>
 <body>
 	<h1>Hello World!</h1>
