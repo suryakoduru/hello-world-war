@@ -28,13 +28,13 @@
 	<distributionManagement>
         <repository>
         <id>nexus</id>
-        <name>maven-mounika</name>
-        <url>http://34.215.26.173:8081/repository/maven-mounika/</url>
+        <name>myapp</name>
+        <url>http://3.238.118.107:8081/repository/myapp/</url>
         </repository>
-        <snapshotRepository>
+        <releaseRepository>
         <id>nexus</id>
         <name>maven-snapshots</name>
-        <url>http://34.215.26.173:8081/repository/maven-snapshots/</url>
-        </snapshotRepository>
+        <url>http://3.238.118.107:8081/repository/myapp/</url>
+        </releaseRepository>
         </distributionManagement>
 </project>
