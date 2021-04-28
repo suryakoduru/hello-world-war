@@ -27,14 +27,14 @@
 	</build>
 	<distributionManagement>
         <repository>
-        <id>nexus</id>
-        <name>maven-snapshot</name>
-        <url>http://3.238.118.107:8081/repository/maven-snapshots/</url>
+        <id>nexus3</id>
+        <name>my-repo</name>
+        <url>http://34.204.179.165:8081/repository/my-repo</url>
         </repository>
         <snapshotRepository>
-        <id>nexus</id>
-        <name>maven-snapshots</name>
-        <url>http://3.238.118.107:8081/repository/maven-snapshots/</url>
+        <id>nexus3</id>
+        <name>my-repo</name>
+        <url>http://34.204.179.165:8081/repository/my-repo</url>
         </snapshotRepository>
         </distributionManagement>
 </project>
